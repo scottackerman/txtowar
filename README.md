@@ -4,6 +4,9 @@ Proof of concept of SMS voting game live demo here - http://ackermaninteractive.
 ## Description
 Project concepted to help grow the VA Lottery mobile database, users texted their votes to one of two options with a real time interface update. Finished project ran on the big screen during half time of all VCU Mens home basketball games at the Siegel Center for the 2012-2013 season growing the VAL mobile user base by 10%.
 
+## Game Logic
+When one side has 10 more votes than the other, that side wins. The final version of the game was timed, with the team that had the most votes at the end winning.
+
 ## Mobile backend
 For this proof of concept, the free Twillio API was used.
 
