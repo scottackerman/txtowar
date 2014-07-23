@@ -1,5 +1,5 @@
 # Txt-o-war
-Proof of concept of SMS voting game
+Proof of concept of SMS voting game live demo here - http://ackermaninteractive.com/txtowar/
 
 ## Description
 Project concepted to help grow the VA Lottery mobile database, users texted their votes to one of two options with a real time interface update. Finished project ran on the big screen during half time of all VCU Mens home basketball games at the Siegel Center for the 2012-2013 season growing the VAL mobile user base by 10%.
