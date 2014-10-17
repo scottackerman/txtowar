@@ -24,3 +24,6 @@ $mysql_host = "YOUR HOST";
 $mysql_database = "YOUR DB";
 $mysql_user = "YOUR UN";
 $mysql_password = "YOUR PW";
+
+## TODO
+Set up final mobile api
